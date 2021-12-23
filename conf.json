@@ -1,0 +1,4 @@
+{
+    "CORREIOS_BASE_URL":"https://www.linkcorreios.com.br/?id=",
+    "QUERY_ELEMENT_SELECTOR":"ul.linha_status"
+}
